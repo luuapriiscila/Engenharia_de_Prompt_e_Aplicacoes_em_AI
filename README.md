@@ -1,0 +1,2 @@
+# Engenharia_de_Prompt_e_Aplicacoes_em_AI
+Repositório da Disciplina
